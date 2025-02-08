@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I Am A Tech-Nerd**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
