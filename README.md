@@ -14,9 +14,8 @@
 - 💬 Ask me about **Lua**
 
 - ⚡ Fun fact **I Am A Tech-Nerd**
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1335719497293758477?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=I%20like%20coding%20Yay!)](https://discord.com/users/1335719497293758477)
 
-
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
