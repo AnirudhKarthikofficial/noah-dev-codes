@@ -14,12 +14,15 @@
 - 💬 Ask me about **Lua**
 
 - ⚡ Fun fact **I Am A Tech-Nerd**
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1335719497293758477?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=I%20like%20coding%20Yay!)](https://discord.com/users/1335719497293758477)
 
 </p>
-
+        <div id="discord" class="lanyard-img">
+            <a href="https://discord.com/users/1335719497293758477">
+                <img id="lanyard-img" src="https://lanyard.cnrad.dev/api/1335719497293758477?idleMessage=Green%3A%20Ping%20me%20for%20help!&animated=true" alt="Discord Status">
+            </a>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noah-dev-codes&show_icons=true&locale=en&layout=compact" alt="noah-dev-codes" /></p>
 
