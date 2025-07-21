@@ -34,7 +34,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,python,robloxstudio,js,heroku,docker,git,linux,lua,firebase&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,python,robloxstudio,heroku,docker,git,linux,lua,firebase&perline=3)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noah-dev-codes&show_icons=true&locale=en&layout=compact" alt="noah-dev-codes" /></p>
 
