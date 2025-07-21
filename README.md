@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">Hey There, I'm Noah I Code Just For A Hobby! 'Things Will Happen In life, But You Should Carry On.</h3>
+<h3 align="center">Hey There, I'm Anirudh I Code Just For A Hobby! 'Things Will Happen In life, But You Should Carry On.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noah-dev-codes&label=Profile%20views&color=0e75b6&style=flat" alt="noah-dev-codes" /> </p>
 
